@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "tj11r",
+  "repo": "container-iqwvrm4",
+  "name": "tj11r",
+}
